@@ -1,0 +1,18 @@
+body {
+	background-color: #011;
+	color: #fff;
+	padding: 0;
+	margin: 0;
+	}
+h1 {
+	text-align: center;
+	font-size: 40pt;
+	color: #fdd;
+}
+#main	{
+	background-image: url(../чек.png);
+	background-position: top center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover ; 
+	height: 500px;
+}
